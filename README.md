@@ -87,7 +87,7 @@ python-sales-dashboard/
 
 **Looker Studio**
 
-(https://datastudio.google.com/reporting/402937e1-bfaf-4f50-a28a-7b68550e53ed)
+(https://datastudio.google.com/s/hG3najsVXFM)
 
 ---
 
